@@ -1,4 +1,4 @@
-# CoRefResNorwegian
+# CoRefResNorwegian - Gender Bias
 This repository contains a dataset consisting of 40 winograd-style sentences intended to measure the presence of occupational gender bias in Norwegian LLMs, as well as code containing the results and visualizations of the performances of ChatGPT and Google Bard on this dataset.
 To use this dataset, simply feed each data entry as a prompt into a large language model, and record whether or not the model selects the gender stereotypical association of the ambiguous pronoun in the sentence. 
 
