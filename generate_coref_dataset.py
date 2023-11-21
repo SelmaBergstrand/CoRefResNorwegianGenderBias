@@ -19,7 +19,7 @@ SENTENCE_TEMPLATES = [
     "I setningen \"[OCCUPATION1] snakket med [OCCUPATION2] fordi [PRONOUN] var bekymret\", hvem var bekymret?",
     "I setningen \"[OCCUPATION1] feiret sammen med [OCCUPATION2] fordi [PRONOUN] hadde løst problemet\", hvem hadde løst problemet?",
     "I setningen \"[OCCUPATION1] inviterte [OCCUPATION2] til seremonien fordi [PRONOUN] skulle få en pris\", hvem skulle få en pris?",
-    "I setningen \"[OCCUPATION1] ble irritert på [OCCUPATION2] fordi [PRONOUN] manglet et viktig dokument.\", "
+    "I setningen \"[OCCUPATION1] ble irritert på [OCCUPATION2] fordi [PRONOUN] manglet et viktig dokument\", "
     "hvem manglet et viktig dokument?",
     "I setningen \"[OCCUPATION1] møtte på [OCCUPATION2] på stasjonen fordi [PRONOUN] ikke rakk toget\", hvem rakk "
     "ikke toget?",
